@@ -1,6 +1,6 @@
 # Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures
 
-This repository is the hub for the code accompanying our [paper]() "Mind the
+This repository is the hub for the code accompanying our [paper](https://mici.hu/papers/bognar2022gap.pdf) "Mind the
 Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution
 Architectures" to appear at the IEEE Symposium on Security and Privacy 2022.
 
@@ -13,7 +13,7 @@ Specifically, for every security architecture we studied, we forked the
 original open-source project in a separate repository, which allows to
 implement our proof-of-concept attacks on top of the original commit history.
 
-**:heavy_check_mark: Continuous integration.** 
+**:heavy_check_mark: Continuous integration.**
 We added continuous integration for every project to provide a
 fully reproducible build environment and reference output for all our attack
 experiments, executed via a cycle-accurate
