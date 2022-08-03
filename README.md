@@ -1,6 +1,6 @@
 # Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures
 
-This repository is the hub for the code accompanying our [paper](https://mici.hu/papers/bognar2022gap.pdf) "Mind the
+This repository is the hub for the code accompanying our [paper](https://mici.hu/papers/bognar22gap.pdf) "Mind the
 Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution
 Architectures" to appear at the IEEE Symposium on Security and Privacy 2022.
 
